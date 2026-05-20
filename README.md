@@ -8,7 +8,7 @@ The goal of the challenge is to count the number of Capuchin bird calls from a g
 ## Status
 In Progress.
 
-##Progress
+## Progress
 - Converting Audio Data to Tensor
 - Transforming the waveform to a spectrogram
 - Training the CNN model
